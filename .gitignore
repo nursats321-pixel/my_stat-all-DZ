@@ -3,4 +3,17 @@ __pycache__/
 *.pyc
 .vscode/
 .idea/
+.env.env
+venv/
+.venv/
+
+# Virtual environments
+.venv/
+.venv-*/
+venv/
+
+# Environment files
 .env
+
+# macOS
+.DS_Store
